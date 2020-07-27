@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about video live 
 - 📫 How to reach me: 13458685625@163.com and 649424611
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Video live is to
+- ⚡ Fun fact: Do what you want
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&hide=c,c%2B%2B&)](https://github.com/ifgyong/ifgyong)
