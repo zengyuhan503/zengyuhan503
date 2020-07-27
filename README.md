@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Do what you want
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zengyuhan503)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&hide=c,c%2B%2B&)](https://github.com/ifgyong/ifgyong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengyuhan503&hide=c,c%2B%2B&)](https://github.com/ifgyong/ifgyong)
