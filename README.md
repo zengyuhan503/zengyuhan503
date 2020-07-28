@@ -4,11 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on VRlive
-- 🌱 I’m currently learning opengl.webgl.webrtc and live video
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning opengl.webgl.webrtc and live 
 - 💬 Ask me about video live 
-- 📫 How to reach me: 13458685625@163.com and 649424611
+- 📫 How to reach me: 13458685625@163.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Do what you want
 
